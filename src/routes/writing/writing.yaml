@@ -2,7 +2,7 @@ papers:
   - title: Displacement in Europe today — Where do we stand after 1945?
     date: 2024-09-15
     summary: >
-      Analysis of European displacement policies from 1945 to present, linking historical events to contemporary approaches and recent crises.
+      Chapter charts the changing landscape of European refugee policies since World War II, contrasting 20th-century humanitarian approaches with 21st-century selective protection and border control strategies.
     link: /assets/pdf/SoSC_2023_2024_EN.pdf
     tags: [Book Chapter, Displacement, Policy]
     authors: "**Liam Haller**, Aurelia Streit"
@@ -17,7 +17,6 @@ papers:
     tags: [Working Paper, Displacement, Policy]
     authors: "**Liam Haller**, Zeynep Yanaşmayan"
 
-
   - title: New platforms for engagement — Private accommodation of forced migrants from Ukraine
     date: 2022-11-01
     summary: >
@@ -25,7 +24,6 @@ papers:
     link: "https://www.dezim-institut.de/fileadmin/user_upload/Demo_FIS/publikation_pdf/FA-5396.pdf"
     tags: [Working Paper, Ukrainians, Refugee Reception]
     authors: "**Liam Haller**, Theresa Uhr, Sifka Etlar Frederiksen, Ramona Rischke, Zeynep Yanaşmayan, Sabrina Zajak"
-
 
   - title: Using Binary Factorizations to Connect Additive Systems and Fair Sacks of Dice
     date: 2020-06-06
@@ -39,22 +37,18 @@ papers:
 
 articles:
   - title: "A not-so ‘natural’ decision: impact of bureaucratic trajectories on
-   forced migrants’ intention and ability to naturalise"
+    forced migrants’ intention and ability to naturalise"
     date: 2023-10-17
     summary: >
-      The paper explores non-automatic naturalization decisions, 
-      and the impact of discretionary implementation and red tape on migrants' strategies.
+      Study develops a two-step framework integrating 'bureaucratic trajectories' to theorize forced migrants' naturalization intentions and abilities in Germany
     link: "https://www.tandfonline.com/doi/full/10.1080/1369183X.2023.2268844"
     tags: [Journal of Ethnic and Migration Studies, Naturalization, Theory]
     authors: "**Liam Haller**, Zeynep Yanaşmayan"
 
-
-
   - title: "Escaping uncertainty: overlapping methods of knowledge production and exchange in the naturalization journey"
     date: 2024-09-20
     summary: >
-      The paper examines how forced migrants utilize overlapping networks
-       of knowledge production and exchange to navigate naturalization bureaucracy.
+      How forced migrants in Germany utilize overlapping methods of knowledge production and exchange to navigate the complexities and uncertainties of naturalization bureaucracy
     link: "https://doi.org/10.1186/s40878-024-00397-w"
     tags: [Comparative Migration Studies, Displacement, Policy]
     authors: "**Liam Haller**, Zeynep Yanaşmayan"
@@ -68,16 +62,6 @@ articles:
     tags: [Global Networks, Displacement, Policy]
     authors: "Sifka Etlar Frederiksen, **Liam Haller**, Theresa Uhr"
 
-
-  - title: "A call to embrace uncertainty: rethinking statistical inference in migration research"
-    date: 2024-09-01
-    summary: >
-      Critique of frequentist statistical methods in migration research, advocating for Bayesian approaches to better incorporate uncertainty and prior knowledge in analysis and policy-making.
-    link: 
-    tags: [Migration Politics, Displacement, Policy]
-    authors: "**Liam Haller**"
-
-
   - title: "Are Forced Migrant Trajectories Path-dependent? | A Markov Analysis"
     date: 2025-01-01
     summary: >
@@ -86,8 +70,7 @@ articles:
     tags: [Under Review]
     authors: "**Liam Haller**"
 
-
-  - title: "[Under review] Beyond Shelter: The Promise and Challenges of Refugee Homestay Accommodation "
+  - title: "Beyond Shelter: The Promise and Challenges of Refugee Homestay Accommodation "
     date: 2025-01-01
     summary: >
       Study of German households' willingness to provide homestays for diverse refugee groups, examining the potential and limitations of private accommodation as a reception strategy.
@@ -95,6 +78,21 @@ articles:
     tags: [Under Review]
     authors: "**Liam Haller**, Ramona Rischke, Zeynep Yanaşmayan, Sifka Etlar Frederiksen"
 
+  - title: "A call to embrace uncertainty: rethinking statistical inference in migration research"
+    date: 2024-09-01
+    summary: >
+      Critique of frequentist statistical methods in migration research, advocating for Bayesian approaches to better incorporate uncertainty and prior knowledge in analysis and policy-making.
+    link: 
+    tags: [In Progress]
+    authors: "**Liam Haller**"
+
+  - title: "How lived experiences affect intentions to naturalize: A causal inference approach to naturalization decisions"
+    date: 2024-09-01
+    summary: >
+     Bayesian network model reveals link between administrative hurdles and naturalization intentions among immigrants.
+    link: 
+    tags: [In Progress]
+    authors: "**Liam Haller**"
 
 presentations:
   - title: "Are Forced Migrant Trajectories Path-dependent? | A Markov Analysis"
