@@ -1,0 +1,85 @@
+papers:
+  - title: Displacement in Europe today — Where do we stand after 1945?
+    date: 2024-09-15
+    summary: >
+      Analysis of European displacement policies from 1945 to present, linking historical events to contemporary approaches and recent crises.
+    link: /assets/pdf/sacks_of_dice.pdf
+
+  - title: "[Under review] Do the means affect the end? Implementation of 
+    naturalization policy as a catalyzer for procedural injustice"
+    date: 2023-10-17
+    summary: >
+      The paper explores non-automatic naturalization decisions, 
+      and the impact of discretionary implementation and red tape on migrants' strategies.
+    link: "https://www.tandfonline.com/doi/full/10.1080/1369183X.2023.2268844"
+
+  - title: New platforms for engagement
+    date: 2022-11-01
+    summary: >
+      Insights on growing role and efficacy of private accommodation in response to the escalation of the war in Ukraine
+    link: "https://www.dezim-institut.de/fileadmin/user_upload/Demo_FIS/publikation_pdf/FA-5396.pdf"
+
+  - title: Using Binary Factorizations to Connect Additive Systems and Fair Sacks of Dice
+    date: 2020-06-06
+    summary: >
+      A general framework to factor discrete and infinite polynomials to integrate research on
+      two previously distinct fields in combinatorics
+    link: /assets/pdf/sacks_of_dice.pdf
+
+articles:
+  - title: "A not-so ‘natural’ decision: impact of bureaucratic trajectories on
+   forced migrants’ intention and ability to naturalise"
+    date: 2023-10-17
+    summary: >
+      The paper explores non-automatic naturalization decisions, 
+      and the impact of discretionary implementation and red tape on migrants' strategies.
+    link: "https://www.tandfonline.com/doi/full/10.1080/1369183X.2023.2268844"
+
+  - title: "A not-so ‘natural’ decision: impact of bureaucratic trajectories on
+   forced migrants’ intention and ability to naturalise"
+    date: 2023-10-17
+    summary: >
+      The paper explores non-automatic naturalization decisions, 
+      and the impact of discretionary implementation and red tape on migrants' strategies.
+    link: "https://www.tandfonline.com/doi/full/10.1080/1369183X.2023.2268844"
+
+  - title: "A call to embrace uncertainty: rethinking statistical inference in migration research"
+    date: 2024-09-01
+    summary: >
+      Critique of frequentist statistical methods in migration research, advocating for Bayesian approaches to better incorporate uncertainty and prior knowledge in analysis and policy-making.
+    link: 
+
+  - title: "[Under review] Are Forced Migrant Trajectories Path-dependent? | A Markov Analysis"
+    date: 2024-09-02
+    summary: >
+      Analysis of path dependency in Syrian refugee migration to Germany using Markov models, revealing varying levels of dependency based on route complexity and accessibility.
+    link: 
+
+  - title: "[Under review] Beyond Shelter: The Promise and Challenges of Refugee Homestay Accommodation "
+    date: 2024-08-17
+    summary: >
+      Study of German households' willingness to provide homestays for diverse refugee groups, examining the potential and limitations of private accommodation as a reception strategy.
+    link: 
+
+presentations:
+  - title: "Are Forced Migrant Trajectories Path-dependent? | A Markov Analysis"
+    date: 2024-04-17
+    summary: >
+      Presented at IMISCOE spring confrence on evaluating the path dependency of forced migrant trajectories using 
+      a Markov framework, with a focus on Syrian refugees moving towards Germany.
+    link: /assets/pdf/Markov_Migration.pdf
+
+  - title: "The role of Citizenship in Migration and Displacement"
+    date: 2023-05-16
+    summary: >
+      Guest lecture at the University of Kurdistan in Erbil on migration and citizenship in 
+      Germany and Iraq
+    link: /assets/pdf/erbil_citizenship.pdf
+
+  - title: "Gestern Syrer*innen, heute Deutsche? Zur Einbürgerung von Geflüchten"
+    date: 2023-01-19
+    summary: >
+      Keynote on naturalization decision making processes and discussion with Jan Schneider on 
+      recent updates to Germany's citizenship laws
+    link: /assets/pdf/dezim_lunch.pdf
+
