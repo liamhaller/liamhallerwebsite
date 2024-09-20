@@ -163,109 +163,9 @@
 
   </Workplace>
 
-  <Workplace
-    title="Software Engineering Intern"
-    company="Scale AI"
-    url="https://scale.com/"
-    dates="December 2020 – January 2021"
-    location="San Francisco, CA"
-  >
-    <li>
-      Worked on machine learning infrastructure for a fast-growing startup using
-      Terraform, Kubernetes, and AWS.
-    </li>
-    <li>
-      Developed an in-house system to unify the ML training workflow, allowing
-      the team to quickly iterate on models, share results on a tracking server,
-      and launch Kubernetes distributed training jobs, saving “hours” of time on
-      each experiment.
-    </li>
-  </Workplace>
-
-  <Workplace
-    title="Architecture Intern"
-    company="Nvidia"
-    url="https://www.nvidia.com"
-    dates="June 2020 – August 2020"
-    location="Santa Clara, CA"
-  >
-    <li>
-      Worked with the Applied Deep Learning Research (ADLR) group on
-      <a class="link" href="https://arxiv.org/abs/2005.10821"
-        >deep learning models</a
-      > for street image segmentation.
-    </li>
-    <li>
-      Individually developed and released
-      <a class="link" href="https://github.com/ekzhang/fastseg">FastSeg</a>, an
-      open-source library containing state-of-the-art PyTorch implementations of
-      MobileNetV3 LR-ASPP for real-time semantic segmentation, significantly
-      more accurate than existing public implementations.
-    </li>
-  </Workplace>
-
-  <Workplace
-    title="Research Assistant"
-    company="Harvard Programming Languages Group"
-    url="https://pl.seas.harvard.edu/"
-    dates="June 2020 – August 2020"
-    location="Cambridge, MA"
-    defaultHidden
-  >
-    <li>
-      Worked on a C++ compiler for.
-      <a class="link" href="https://github.com/HarvardPL/formulog">Formulog</a>,
-      a variant of Datalog that supports ML-like syntax extension and SMT
-      queries.
-    </li>
-    <li>
-      Generated highly parallel templatized C++17 code, used caching in B-Tree
-      comparisons to speed up Datalog evaluation by 16x, and optimized existing
-      OpenMP code using lockless data structures for an additional 4x speedup.
-    </li>
-    <li>
-      Wrote a handwritten parser that was 30x faster than the ANTLR-generated
-      LL(*) parser and used 20x less memory (80 GB to 4 GB).
-    </li>
-  </Workplace>
-
-  <Workplace
-    title="Undergraduate Researcher"
-    company="Predictive Medicine Group"
-    url="https://www.predmed.org/"
-    dates="December 2019 – June 2020"
-    location="Boston, MA"
-    defaultHidden
-  >
-    <li>
-      Conducted research in statistics & medical informatics advised by Ben Reis
-      (Harvard Medical School), developing temporal models to identify patients
-      at high risk of suicide based on medical histories obtained from
-      Massachusetts General Hospital.
-    </li>
-  </Workplace>
-
-  <Workplace
-    title="Computer Science Instructor"
-    company="AlphaStar Academy"
-    url="https://alphastar.academy/"
-    dates="December 2017 – April 2020"
-    location="Santa Clara, CA"
-    defaultHidden
-  >
-    <li>
-      Taught advanced algorithms and data structures (USACO Platinum) and
-      AIME-level (national math competition) mathematics to talented high school
-      students across the nation.
-    </li>
-    <li>
-      Developed detailed lesson plans and recorded lectures for future summer
-      programs and online courses.
-    </li>
-  </Workplace>
 </section>
 
-<section class="layout-md py-12">
+<!-- <section class="layout-md py-12">
   <h2 class="heading2">Awards and Honors</h2>
 
   <div class="mb-4">
@@ -328,7 +228,7 @@
       </li>
     </ul>
   </div>
-</section>
+</section> -->
 
 <style lang="postcss">
   b {
