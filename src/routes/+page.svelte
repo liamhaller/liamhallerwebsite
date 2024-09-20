@@ -21,10 +21,10 @@
       desc: "A framework to factor discrete and infinite polynomials to integrate two previously distinct fields in combinatorics",
     },
     {
-      name: "Rustpad",
+      name: "Displacement in Europe today — Where do we stand after 1945?",
       // href: "/post",
-      desc: "self-hosted collaborative text editor",
-      aside: "2M+ downloads",
+      desc: "Book chapter on the evolution of displacement policies in Europe since 1945",
+      href: "/assets/pdf/SoSC_2023_2024_EN.pdf"
     },
   ];
 </script>
@@ -54,11 +54,11 @@
       <img class="object-scale-down h-70 w-60 rounded-xl" src="/assets/images/liam_dezim.jpg" alt="Modern building architecture">
     </div>
     <div class="md:p-10">
-      <div class="uppercase tracking-wide text-sm text-black-500 font-semibold">Hello!</div>
+      <div class="uppercase tracking-wide text-sm text-black-500 font-semibold">About</div>
       <br>
-      <p class="space-y-5">My name is Liam and I am a migration researcher at the 
+      <p class="space-y-5">I live in Berlin and I am a migration researcher at the 
         <a class="link" href="https://www.dezim-institut.de/en/institute/about-dezim/" target="_blank" >
-          DeZIM institute</a> in Berlin. My aim is to better understand migration decisions and outcomes 
+          DeZIM institute</a>. My aim is to better understand migration decisions and outcomes 
           using quantitative methods and through the study of complex systems.  
 
       </p>
@@ -90,7 +90,8 @@
     <p class="pb-2">Selected research & projects:</p>
 
     {#each featuredProjects as project}
-      <a class="project-pair" href={project.href}>
+      <a class="project-pair" href={project.href} target="_blank" rel="noopener noreferrer"
+      >
         <div class="text-black font-medium">
           {project.name}
           <ArrowUpRight size={18} class="inline text-neutral-400" />
