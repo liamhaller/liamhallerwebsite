@@ -72,37 +72,7 @@
     dates="September 2021 – Current"
     location="Berlin, Germany"
   >
-    <li>
-      Modal is a high-performance, low-latency serverless function platform. I
-      made Modal's serverless container runtime from scratch, in Rust.
-    </li>
-    <li>
-      Scaled the platform from 50 CPUs / 2 GPUs to 100,000 CPUs / 5,000 GPUs.
-    </li>
-    <li>
-      Engineered FUSE file systems, a global sub-millisecond cache over hundreds
-      of terabytes in tiered storage, backpressure for distributed queues,
-      fault-tolerant TLS relays, container sandboxing, an internal HTTP/3
-      service transport, etc.
-    </li>
-    <li>
-      Made the <a class="link" href="https://modal.com">modal.com</a> website. Created
-      our design system and frontend, including user dashboards, authentication,
-      a unified documentation site, 2D + 3D graphics, and web-based internal tools.
-      Mentored coworkers in web development.
-    </li>
-    <li>Wrote most of our core development scripts. Made CI fast.</li>
-    <li>
-      Investigated systems issues, like reducing end-to-end server latency by
-      3x, fixing all manner of bugs, and disclosing security vulnerabilities in
-      dependencies.
-    </li>
-    <li>
-      Introduced Rust and Svelte to the company. I rewrote at least 4 systems in
-      Rust. All of them remained in use, since people like working on them, and
-      they are more robust than the systems they replaced (i.e., boring and
-      reliable, low p99 latency, no production issues).
-    </li>
+    
   </Workplace>
 
   <Workplace
