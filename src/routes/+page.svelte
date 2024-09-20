@@ -30,7 +30,7 @@
 </script>
 
 <Seo
-  title="Faizan"
+  title="Liam Haller"
   description="Researcher, software engieer, and designer. Making meaningful systems and interfaces for people."
 />
 
