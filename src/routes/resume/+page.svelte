@@ -39,16 +39,16 @@
 
   <h4 class="font-medium mt-4 mb-1">Graduate-level coursework:</h4>
   <ul>
+    <li>Principles of Finance (KELLG_FE 310-0)</li>
+    <li>Investmeents (KELLG_FE 312-0lk)</li>
+    <li>Derivative Modeling (KELLG_FE 3014-0)</li>
+    <li> Derivatives Markets (FINC-465-0)</li>
+    <li>Advanced Econometrics I (ECON 381-1)</li>
+    <li>Advanced Econometrics II (ECON 381-2)</li>
     <li>Advanced Empirical
       Economics</li>
     <li>Financial Econometrics</li>
     <li>Multivariate Statistical Analysis</li>
-    <li>Principles of Finance (KELLG_FE 310-0)</li>
-    <li>Investmeents (KELLG_FE 312-0lk)</li>
-    <li>Derivatives (KELLG_FE 3014-0)</li>
-    <li> Derivatives Markets (FINC-465-0)</li>
-    <li>Advanced Econometrics I (ECON 381-1)</li>
-    <li>Advanced Econometrics II (ECON 381-2)</li>
   </ul>
 
   <h4 class="font-medium mt-4 mb-1">Undergraduate technical coursework:</h4>
@@ -71,7 +71,12 @@
     url="https://www.dezim-institut.de/"
     dates="September 2021 – Current"
     location="Berlin, Germany"
+
   >
+  
+  <li>
+    Coming soon
+  </li>
     
   </Workplace>
 

@@ -26,7 +26,7 @@
 
 <Seo
   title="Liam Haller – Projects"
-  description="Open-source software projects in systems, web development, computer graphics, music, arts, programming languages, machine learning, and more."
+  description="Open-source software projects in systems, finance, political risk, programming languages, and machine learning."
 />
 
 

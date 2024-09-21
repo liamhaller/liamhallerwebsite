@@ -31,7 +31,7 @@
 
 <Seo
   title="Liam Haller"
-  description="Researcher, software engieer, and designer. Making meaningful systems and interfaces for people."
+  description="Journal articles and other research related to migration, software, and mathematics."
 />
 
 <!-- <p
@@ -114,8 +114,8 @@
        I gratudated from Northwestern University, where I studied in mathemtatics and several 
        foreign langauges. 
        
-       To varying degrees of fluency, I speak Arabic (shami/fausa), German, French,
-       Hebrew, and Portuguese (br). I also took masters-level coursework in finaincal economics through 
+       To varying degrees of fluency, I speak Arabic 🇸🇾 (shami/fausa), German 🇩🇪, French 🇫🇷,
+       Hebrew 🇮🇱, and Portuguese 🇧🇷. I also took masters-level coursework in finaincal economics through 
        the Kellogg certificate program. 
     </p>
 
