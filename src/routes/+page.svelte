@@ -12,7 +12,7 @@
     },
     {
       name: "surveyexplorer",
-      href: "/projects#surveyexplorer",
+      href: "/projects/surveyexplorer",
       desc: "R package to explore complex survey data",
       aside: "Publised on CRAN"
     },
