@@ -7,13 +7,14 @@
     {
       name: "A not-so 'natural' decision",
       href: "https://doi.org/10.1080/1369183X.2023.2268844",
-      desc: "An theoretical model for naturalization decisions",
+      desc: "An updated analytical model for naturalization decisions",
       aside: "Journal of Ethnic and Migration Studies",
     },
     {
       name: "surveyexplorer",
       // href: "/projects#surveyexplorer",
       desc: "R package to explore complex survey data",
+      aside: "Publised on CRAN"
     },
     {
       name: "Additive Systems and Fair Sacks of Dice",
@@ -120,7 +121,7 @@
     </p>
 
     <p>
-      Other interests intersts of mine include leatherworking, baking bagels, triathalons
+      Other interests intersts of mine include leatherworking, baking bagels, and triathalons
     </p>
 
   </div>
