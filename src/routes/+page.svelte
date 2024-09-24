@@ -12,7 +12,7 @@
     },
     {
       name: "surveyexplorer",
-        //href: "/projects/surveyexplorer",
+      href: "https://github.com/liamhaller/surveyexplorer",
       desc: "R package to explore complex survey data",
       aside: "Publised on CRAN"
     },
@@ -23,7 +23,6 @@
     },
     {
       name: "Displacement in Europe today — Where do we stand after 1945?",
-      // href: "/post",
       desc: "Book chapter on the evolution of displacement policies in Europe since 1945",
       href: "/assets/pdf/SoSC_2023_2024_EN.pdf"
     },
@@ -32,7 +31,7 @@
 
 <Seo
   title="Liam Haller"
-  description="Journal articles and other research related to migration, software, and mathematics."
+  description="Research and publications related to migration, software, and mathematics."
 />
 
 <!-- <p
@@ -57,7 +56,7 @@
     <div class="md:p-10">
       <div class="uppercase tracking-wide text-sm text-black-500 font-semibold">About</div>
       <br>
-      <p class="space-y-5">I live in Berlin and I am a migration researcher at the 
+      <p class="space-y-5">I live in Berlin and am a migration researcher at the 
         <a class="link" href="https://www.dezim-institut.de/en/institute/about-dezim/" target="_blank" >
           DeZIM institute</a>. My aim is to better understand migration decisions and outcomes 
           using quantitative methods and through the study of complex systems.  
@@ -73,13 +72,13 @@
 
   <div class="space-y-5">
     <p>
-      My current research includes the the development of large-scale, agent-based simulations,
+      My current research includes the development of large-scale, agent-based simulations,
       the application of Bayesian methods, and the use of Markov chains to model forced migrant trajectories. 
 
     </p>
 
     <p>
-      Previously, I was awareded a Fulbright research grant to to model the naturalization decision-making processes of forced migrants. 
+      Previously, I was awarded a Fulbright research grant to to model the naturalization decision-making processes of forced migrants. 
        Before that, I worked as a software engineer at McMaster-Carr and conducted research in 
       combinatorics. 
     </p>
@@ -112,16 +111,14 @@
   <div class="space-y-5">
 
     <p>
-       I gratudated from Northwestern University, where I studied in mathemtatics and several 
-       foreign langauges. 
-       
-       To varying degrees of fluency, I speak Arabic 🇸🇾 (shami/fausa), German 🇩🇪, French 🇫🇷,
-       Hebrew 🇮🇱, and Portuguese 🇧🇷. I also took masters-level coursework in finaincal economics through 
+       I graduated from Northwestern University, where I studied mathematics and several 
+       foreign languages. I speak, to varying degrees of fluency, Arabic 🇸🇾 (shami/fausa), German 🇩🇪, French 🇫🇷,
+       Hebrew 🇮🇱, and Portuguese 🇧🇷. I also took masters-level coursework in financial economics through 
        the Kellogg certificate program. 
     </p>
 
     <p>
-      Other interests intersts of mine include leatherworking, baking bagels, and triathalons
+     Other interests of mine include leatherworking, baking bagels, and triathlons.
     </p>
 
   </div>
