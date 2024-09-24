@@ -4,7 +4,7 @@ papers:
     summary: >
       Chapter charts the changing landscape of European refugee policies since World War II, contrasting 20th-century humanitarian approaches with 21st-century selective protection and border control strategies.
     link: /assets/pdf/SoSC_2023_2024_EN.pdf
-    tags: [Book Chapter, Displacement, Policy]
+    tags: [Book Chapter, Policy, Europe]
     authors: "**Liam Haller**, Aurelia Streit"
 
   - title: "Do the means affect the end? Implementation of 
@@ -13,8 +13,8 @@ papers:
     summary: >
       The paper explores non-automatic naturalization decisions, 
       and the impact of discretionary implementation and red tape on migrants' strategies.
-    link: "https://www.tandfonline.com/doi/full/10.1080/1369183X.2023.2268844"
-    tags: [Working Paper, Displacement, Policy]
+    link: /assets/pdf/ImplementationNaturalization_MainDocument.pdf
+    tags: [Working Paper, Naturalization, Germany]
     authors: "**Liam Haller**, Zeynep Yanaşmayan"
 
   - title: New platforms for engagement — Private accommodation of forced migrants from Ukraine
@@ -58,7 +58,7 @@ articles:
     summary: >
       How forced migrants in Germany utilize overlapping methods of knowledge production and exchange to navigate the complexities and uncertainties of naturalization bureaucracy
     link: "https://doi.org/10.1186/s40878-024-00397-w"
-    tags: [Comparative Migration Studies, Displacement, Policy]
+    tags: [Comparative Migration Studies, Knowledge Production, Uncertainty]
     authors: "**Liam Haller**, Zeynep Yanaşmayan"
 
   - title: "Motivations and Views on State Support for Refugees: Distinguishing between Politically and Socially Engaged"
@@ -66,8 +66,8 @@ articles:
     summary: >
       Survey-based study of 5,682 German volunteers examines motivations driving political versus social-humanitarian 
       refugee support, linking engagement types to views on state responsibilities.
-    link: "https://doi.org/10.1186/s40878-024-00397-w"
-    tags: [Global Networks, Displacement, Policy]
+    link: 
+    tags: [Global Networks, Engagement, Policy]
     authors: "Sifka Etlar Frederiksen, **Liam Haller**, Theresa Uhr"
 
   - title: "Are Forced Migrant Trajectories Path-dependent? | A Markov Analysis"
