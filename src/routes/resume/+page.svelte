@@ -64,11 +64,6 @@
   <li>
    Programmed an agent-based model to simulate the effects of EU policy changes on high-skilled labor migration to Germany in Julia, from scratch
   </li>
-
-  <li>
-    Interviewed 30 Syrian and Iraqi refugees in Arabic/German
-    to assess how lived experiences affect citizenship aspirations
-  </li>
   <li>Applied Markov chain analysis to assess path dependency in Syrian refugees’ migration routes to Germany,
      using transition probabilities across primary transit countries to reveal the impact of
       political events on migration decisions</li>
@@ -97,8 +92,6 @@
       Interviewed 30 Syrian and Iraqi refugees in Arabic/German
       to assess how lived experiences affect citizenship aspirations
     </li>
-    <li>Interviewed 30 Syrian and Iraqi refugees in Arabic/German to assess how
-       lived experiences affect citizenship and subsequent migration aspirations</li>
     <li>
       Accepted to present research at the annual International Migration Research Network 
       (IMISCOE) conference and to collaborate on a Special Issue for IMISCOE’s Migration,
