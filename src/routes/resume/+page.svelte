@@ -27,14 +27,6 @@
     <p class="byline">Certificate in Financial Economics</p>
   </div>
 
-  <div class="mb-4">
-    <div class="flex justify-between items-end">
-      <h3 class="text-black text-lg">Humboldt University of Berlin</h3>
-      <div class="text-neutral-500 mb-0.5">2024 – Present</div>
-    </div>
-    <p class="byline">MSc Statistics</p>
-  </div>
-
 
 
   <h4 class="font-medium mt-4 mb-1">Graduate-level coursework:</h4>
@@ -45,10 +37,6 @@
     <li> Derivatives Markets (FINC-465-0)</li>
     <li>Advanced Econometrics I (ECON 381-1)</li>
     <li>Advanced Econometrics II (ECON 381-2)</li>
-    <li>Advanced Empirical
-      Economics</li>
-    <li>Financial Econometrics</li>
-    <li>Multivariate Statistical Analysis</li>
   </ul>
 
   <h4 class="font-medium mt-4 mb-1">Undergraduate technical coursework:</h4>
@@ -73,10 +61,23 @@
     location="Berlin, Germany"
 
   >
-  
   <li>
-    Coming soon
+   Programmed an agent-based model to simulate the effects of EU policy changes on high-skilled labor migration to Germany in Julia, from scratch
   </li>
+
+  <li>
+    Interviewed 30 Syrian and Iraqi refugees in Arabic/German
+    to assess how lived experiences affect citizenship aspirations
+  </li>
+  <li>Applied Markov chain analysis to assess path dependency in Syrian refugees’ migration routes to Germany,
+     using transition probabilities across primary transit countries to reveal the impact of
+      political events on migration decisions</li>
+
+  <li>Selected to Migration Politics’ virtual residency to publish an ‘agenda setting paper’ on the need to 
+    rethink statistical inference in migration studies</li>
+
+    <li>Developed Bayesian network, grounded in previous theoretical research, 
+      to model the impact of lived experiences on naturalization intentions</li>
     
   </Workplace>
 
@@ -88,24 +89,20 @@
     location="Berlin, Germany"
   >
     <li>
-      Designed and conducted independent research on the determinants of citizenship acquisition 
-      for refugees and developed a theoretical model for decision-making processes
+      Awarded Fulbright grant to conduct research on the determinants of citizenship
+       acquisition for refugees and develop a theoretical model for decision-making processes
 
     </li>
     <li>
       Interviewed 30 Syrian and Iraqi refugees in Arabic/German
       to assess how lived experiences affect citizenship aspirations
     </li>
-    <li>Accepted to present research at the annual International Migration Research Network (IMISCOE)
-       conference and to collaborate on a Special Issue for the Migration, Citizenship and 
-       Political Participation standing committee</li>
+    <li>Interviewed 30 Syrian and Iraqi refugees in Arabic/German to assess how
+       lived experiences affect citizenship and subsequent migration aspirations</li>
     <li>
-      Published two journal articles from this research:
-      <ul> <li> A not-so ‘natural’ decision: impact of bureaucratic trajectories on forced migrants’ 
-        intention and ability to naturalise</li></ul>
-       <ul> <li> Escaping Uncertainty: Overlapping Methods of Knowledge Production and Exchange in
-        the Naturalization Journey</li> </ul>
-    </li>
+      Accepted to present research at the annual International Migration Research Network 
+      (IMISCOE) conference and to collaborate on a Special Issue for IMISCOE’s Migration,
+       Citizenship and Political Participation standing committee</li> 
   </Workplace>
 
   <Workplace
