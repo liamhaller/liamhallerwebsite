@@ -61,18 +61,10 @@
     location="Berlin, Germany"
 
   >
-  <li>
-   Programmed an agent-based model to simulate the effects of EU policy changes on high-skilled labor migration to Germany in Julia, from scratch
-  </li>
-  <li>Applied Markov chain analysis to assess path dependency in Syrian refugees’ migration routes to Germany,
-     using transition probabilities across primary transit countries to reveal the impact of
-      political events on migration decisions</li>
-
-  <li>Selected to Migration Politics’ virtual residency to publish an ‘agenda setting paper’ on the need to 
-    rethink statistical inference in migration studies</li>
-
-    <li>Developed Bayesian network, grounded in previous theoretical research, 
-      to model the impact of lived experiences on naturalization intentions</li>
+  <li>Programmed an agent-based model to simulate the effects of EU policy changes on high-skilled labor migration to Germany in Julia, from scratch </li>
+  <li>Selected for Migration Politics’ fellowship to publish an ‘agenda setting paper’ on the need to rethink statistical inference in migration studies</li>
+  <li>Applied Markov chain analysis to examine the impact of exogenous shocks on Syrian refugees’ migration trajectories, mapping how political and military events shape path dependency in migration routes</li>
+  <li>Developed Bayesian network to estimate causal impact of bureaucratic experiences on the decision to pursue naturalization among immigrants</li>
     
   </Workplace>
 
@@ -93,9 +85,7 @@
       to assess how lived experiences affect citizenship aspirations
     </li>
     <li>
-      Accepted to present research at the annual International Migration Research Network 
-      (IMISCOE) conference and to collaborate on a Special Issue for IMISCOE’s Migration,
-       Citizenship and Political Participation standing committee</li> 
+      Delivered keynote and addressed Berlin media on changes to recent citizenship laws in a discussion with the managing director of Germany’s expert council on Integration and Migration</li> 
   </Workplace>
 
   <Workplace
