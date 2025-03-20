@@ -15,6 +15,11 @@
 </section>
 
 <section class="layout-md py-12">
+  <h2 class="heading2">Articles in Progress</h2>
+  <WritingList data={writing.inprogress} />
+</section>
+
+<section class="layout-md py-12">
   <h2 class="heading2">Working papers & Book chapters</h2>
   <WritingList data={writing.papers} />
 </section>

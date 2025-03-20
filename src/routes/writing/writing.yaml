@@ -44,17 +44,15 @@ papers:
 
 
 articles:
-
   - title: "Are Forced Migrant Trajectories Path-dependent? | A Markov Analysis"
     date: 2025-02-24
     summary: >
-      Reveals how political and military events shape path dependency in migration routes
+      Article demonstrates how political and military events shape path dependency in migration routes
     link: "https://doi.org/10.1177/01979183251319015"
     tags: [International Migration Review, Migration trajectories, Markov process]
     authors: "**Liam Haller**"
 
-  - title: "A not-so ‘natural’ decision: impact of bureaucratic trajectories on
-    forced migrants’ intention and ability to naturalise"
+  - title: "A not-so ‘natural’ decision: impact of bureaucratic trajectories on forced migrants’ intention and ability to naturalise"
     date: 2023-10-17
     summary: >
       Study develops a two-step framework integrating 'bureaucratic trajectories' to theorize forced migrants' naturalization intentions and abilities in Germany
@@ -76,9 +74,10 @@ articles:
       Survey-based study of 5,682 German volunteers examines motivations driving political versus social-humanitarian 
       refugee support, linking engagement types to views on state responsibilities.
     link: "https://onlinelibrary.wiley.com/doi/10.1111/glob.12514"
-    tags: [Global Networks, Engagement, Policy]
+    tags: [Global Networks, State responsibility, Ukrainian refugees]
     authors: "Sifka Etlar Frederiksen, **Liam Haller**, Theresa Uhr"
 
+inprogress:
   - title: "Beyond Shelter: The Promise and Challenges of Refugee Homestay Accommodation "
     date: 2025-01-01
     summary: >
