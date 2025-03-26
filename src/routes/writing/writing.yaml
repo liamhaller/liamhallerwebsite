@@ -47,10 +47,12 @@ articles:
   - title: "Are Forced Migrant Trajectories Path-dependent? | A Markov Analysis"
     date: 2025-02-24
     summary: >
-      Article demonstrates how political and military events shape path dependency in migration routes
+      How do political and military events shape path dependency in migration routes?
     link: "https://doi.org/10.1177/01979183251319015"
     tags: [International Migration Review, Migration trajectories, Markov process]
     authors: "**Liam Haller**"
+    image: "/assets/images/publications/markov.jpg"
+
 
   - title: "A not-so ‘natural’ decision: impact of bureaucratic trajectories on forced migrants’ intention and ability to naturalise"
     date: 2023-10-17
@@ -59,6 +61,8 @@ articles:
     link: "https://www.tandfonline.com/doi/full/10.1080/1369183X.2023.2268844"
     tags: [Journal of Ethnic and Migration Studies, Naturalization, Theory]
     authors: "**Liam Haller**, Zeynep Yanaşmayan"
+    image: "/assets/images/publications/jems.jpg"
+
 
   - title: "Escaping uncertainty: overlapping methods of knowledge production and exchange in the naturalization journey"
     date: 2024-09-20
@@ -67,6 +71,8 @@ articles:
     link: "https://doi.org/10.1186/s40878-024-00397-w"
     tags: [Comparative Migration Studies, Knowledge Production, Uncertainty]
     authors: "**Liam Haller**, Zeynep Yanaşmayan"
+    image: "/assets/images/publications/cms.jpg"
+
 
   - title: "Motivations and Views on State Support for Refugees: Distinguishing between Politically and Socially Engaged"
     date: 2024-09-28
@@ -76,6 +82,8 @@ articles:
     link: "https://onlinelibrary.wiley.com/doi/10.1111/glob.12514"
     tags: [Global Networks, State responsibility, Ukrainian refugees]
     authors: "Sifka Etlar Frederiksen, **Liam Haller**, Theresa Uhr"
+    image: "/assets/images/publications/globalnetworks.jpg"
+
 
 inprogress:
   - title: "Beyond Shelter: The Promise and Challenges of Refugee Homestay Accommodation "
