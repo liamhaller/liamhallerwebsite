@@ -33,15 +33,6 @@ papers:
     tags: [Working Paper, Germany, Discrimination]
     authors: Joshua Kwesi Aikins, Samera Bartsch, Fabio Best, Teresa Bremberger, Annett Gräfe-Geusch, **Liam Haller**, Miriam Meksem, Friederike Römer, Deniz Yıldırım-Caliman, Sabrina Zajak
 
-  - title: Using Binary Factorizations to Connect Additive Systems and Fair Sacks of Dice
-    date: 2020-06-06
-    summary: >
-      A general framework to factor discrete and infinite polynomials to integrate research on
-      two previously distinct fields in combinatorics
-    link: /assets/pdf/sacks_of_dice.pdf
-    tags: [Working Paper, Combinatorics]
-    authors: "Michael Maltenfort, **Liam Haller**, Hannah Karzmer"
-
 
 articles:
   - title: "Are Forced Migrant Trajectories Path-dependent? | A Markov Analysis"
@@ -52,6 +43,16 @@ articles:
     tags: [International Migration Review, Migration trajectories, Markov process]
     authors: "**Liam Haller**"
     image: "/assets/images/publications/markov.jpg"
+
+  - title: Using Binary Factorizations to Connect Additive Systems and Fair Sacks of Dice
+    date: 2020-06-06
+    summary: >
+      A general framework to factor discrete and infinite polynomials to integrate research on
+      two previously distinct fields in combinatorics. Later re-submitted to AMM. 
+    link: /assets/pdf/sacks_of_dice.pdf
+    tags: [Combinatorics, Additive Systems, Fair Sacks of Dice]
+    authors: "Michael Maltenfort, **Liam Haller**, Hannah Karzmer"
+    image: "/assets/images/publications/amm.jpg"
 
 
   - title: "A not-so ‘natural’ decision: impact of bureaucratic trajectories on forced migrants’ intention and ability to naturalise"
