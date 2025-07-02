@@ -64,6 +64,15 @@ articles:
     authors: "**Liam Haller**, Zeynep Yanaşmayan"
     image: "/assets/images/publications/jems.jpg"
 
+  - title: "Beyond Shelter: The Promise and Challenges of Refugee Homestay Accommodation"
+    date: 2025-07-02
+    summary: >
+      Examines he potential for scaling private homestay accommodation beyond Ukrainian refugees
+    link: "https://doi.org/10.1007/s11266-025-00745-z"
+    tags: [Voluntas, Forced Migration, Accommodation]
+    authors: "**Liam Haller**, Zeynep Yanaşmayan"
+    image: "/assets/images/publications/voluntas.jpg"
+
 
   - title: "Escaping uncertainty: overlapping methods of knowledge production and exchange in the naturalization journey"
     date: 2024-09-20
