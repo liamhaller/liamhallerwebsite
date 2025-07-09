@@ -102,6 +102,8 @@ inprogress:
     link: "https://osf.io/preprints/socarxiv/bcmp9_v1"
     tags: [SocArXiv, Migration Policy, Bayesian Statistics]
     authors: "**Liam Haller**"
+    image: "/assets/images/publications/migpol.png"
+
 
   - title: "How lived experiences affect intentions to naturalize: A causal inference approach to naturalization decisions"
     date: 2024-09-01
