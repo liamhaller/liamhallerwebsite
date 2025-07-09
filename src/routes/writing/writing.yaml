@@ -95,12 +95,12 @@ articles:
 
 
 inprogress:
-  - title: "A call to embrace uncertainty: rethinking statistical inference in migration research"
-    date: 2024-09-01
+  - title: "A Call to Embrace Uncertainty: Rethinking Statistical Inference in Migration Research"
+    date: 2025-07-09
     summary: >
       Critique of frequentist statistical methods in migration research, advocating for Bayesian approaches to better incorporate uncertainty and prior knowledge in analysis and policy-making.
-    link: 
-    tags: [In Progress]
+    link: "https://osf.io/preprints/socarxiv/bcmp9_v1"
+    tags: [SocArXiv, Migration Policy, Bayesian Statistics]
     authors: "**Liam Haller**"
 
   - title: "How lived experiences affect intentions to naturalize: A causal inference approach to naturalization decisions"
