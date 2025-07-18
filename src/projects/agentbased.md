@@ -1,6 +1,6 @@
 ---
 title: Agent-based model of labor migration
-date: 2024-01-22
+date: 2025-07-22
 repo: #
 topics: ["Julia", "Agent-based model", "Complex systems"]
 lead: Simulate labor migration from Turkey to Germany
