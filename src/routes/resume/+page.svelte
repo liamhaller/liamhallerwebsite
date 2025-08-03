@@ -32,7 +32,7 @@
   <h4 class="font-medium mt-4 mb-1">Graduate-level coursework:</h4>
   <ul>
     <li>Principles of Finance (KELLG_FE 310-0)</li>
-    <li>Investmeents (KELLG_FE 312-0lk)</li>
+    <li>Investmeents (KELLG_FE 312-0)</li>
     <li>Derivative Modeling (KELLG_FE 3014-0)</li>
     <li> Derivatives Markets (FINC-465-0)</li>
     <li>Advanced Econometrics I (ECON 381-1)</li>
@@ -54,10 +54,26 @@
   <h2 class="heading2">Professional Experience</h2>
 
   <Workplace
+  title="Macro Analyst"
+  company="Greenmantle"
+  url="https://www.gmantle.com/"
+  dates="June 2025 – Current"
+  location="New York, USA"
+
+>
+
+
+
+
+  
+</Workplace>
+
+
+  <Workplace
     title="Researcher"
     company="DeZIM Institute"
     url="https://www.dezim-institut.de/"
-    dates="September 2021 – Current"
+    dates="September 2021 – July 2025"
     location="Berlin, Germany"
 
   >
