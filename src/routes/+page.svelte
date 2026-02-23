@@ -56,9 +56,9 @@
     <div class="md:p-10">
       <div class="uppercase tracking-wide text-sm text-black-500 font-semibold">About</div>
       <br>
-      <p class="space-y-5">I live in Berlin and am a migration researcher at the 
+      <p class="space-y-5">Hi, My name is Liam and I currently live in New York. I am a macro analyst at  <a class="link" href="https://www.gmantle.com/" target="_blank" > Greenmantle</a>, where I advise on macroeconomics and geopolitics.  Before I worked in Berlin as a migration researcher at the 
         <a class="link" href="https://www.dezim-institut.de/en/institute/about-dezim/" target="_blank" >
-          DeZIM institute</a>. My aim is to better understand migration decisions and outcomes 
+          DeZIM institute</a>. The aim of my research was to better understand migration decisions and outcomes 
           using quantitative methods and through the study of complex systems.  
 
       </p>
@@ -72,13 +72,13 @@
 
   <div class="space-y-5">
     <p>
-      My current research includes the development of large-scale, agent-based simulations,
+      My research included the development of large-scale, agent-based simulations,
       the application of Bayesian methods, and the use of Markov chains to model forced migrant trajectories. 
 
     </p>
 
     <p>
-      Previously, I was awarded a Fulbright research grant to to model the naturalization decision-making processes of forced migrants. 
+      I first arrived in Berlin with the help of a Fulbright research grant to to model the naturalization decision-making processes of forced migrants. 
        Before that, I worked as a software engineer at McMaster-Carr and conducted research in 
       combinatorics. 
     </p>
