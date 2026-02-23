@@ -56,7 +56,7 @@
     <div class="md:p-10">
       <div class="uppercase tracking-wide text-sm text-black-500 font-semibold">About</div>
       <br>
-      <p class="space-y-5">Hi, My name is Liam and I currently live in New York. I am a macro analyst at  <a class="link" href="https://www.gmantle.com/" target="_blank" > Greenmantle</a>, where I advise on macroeconomics and geopolitics.  Before I worked in Berlin as a migration researcher at the 
+      <p class="space-y-5">Hi, my name is Liam and I currently live in New York. I am a macro analyst at  <a class="link" href="https://www.gmantle.com/" target="_blank" > Greenmantle</a>, where I advise on macroeconomics and geopolitics.  Before I worked in Berlin as a migration researcher at the 
         <a class="link" href="https://www.dezim-institut.de/en/institute/about-dezim/" target="_blank" >
           DeZIM institute</a>. The aim of my research was to better understand migration decisions and outcomes 
           using quantitative methods and through the study of complex systems.  
